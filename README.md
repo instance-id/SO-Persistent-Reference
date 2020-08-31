@@ -28,6 +28,6 @@ An example scene is located in Asset/instance.id/SOReference/Example/BindingExam
 ![](https://i.imgur.com/p1fp7t0.png)
 
 
-
+---
 ![alt text](https://i.imgur.com/cg5ow2M.png "instance.id")
 
