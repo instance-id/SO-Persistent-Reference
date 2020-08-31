@@ -3,15 +3,17 @@
 // -- instance.id 2020 | http://github.com/instance-id | http://instance.id ---
 // ----------------------------------------------------------------------------
 
+using System;
 using System.Collections.Generic;
+using instance.id.OdinSerializer;
 using UnityEngine;
 
 namespace instance.id.SOReference
 {
     [CreateAssetMenu]
-    public class ReferenceScriptableObject : ScriptableObject
+    public class ReferenceScriptableObject : SerializedScriptableObject
     {
-        // --- ObjectType is used to assign a differentiating type to the Reference ScriptableObjects
+        // --- ObjectType is used to assign a differentiating "Type" to each Reference ScriptableObject
         // --- which is then matched to the appropriate TypeData Monobehaviour used to locate scene objects
         public ContainerType objectType;
         

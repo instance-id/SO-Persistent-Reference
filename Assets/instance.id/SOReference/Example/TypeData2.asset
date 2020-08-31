@@ -13,4 +13,34 @@ MonoBehaviour:
   m_Name: TypeData2
   m_EditorClassIdentifier: 
   objectType: 2
-  exposedReferenceList: []
+  exposedReferenceList:
+  - reference:
+      exposedName: DataType1 (4)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1 (3)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1 (2)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1 (1)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType2 (4)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType2 (3)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType2 (2)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType2 (1)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType2
+      defaultValue: {fileID: 0}

@@ -16,7 +16,19 @@ namespace instance.id.SOReference
         TypeData3 = 1 << 2,
         TypeData4 = 1 << 3,
         TypeData5 = 1 << 4,
-        All = TypeData1 | TypeData2 | TypeData3 | TypeData4 | TypeData5
+        AllTypeData = TypeData1 | TypeData2 | TypeData3 | TypeData4 | TypeData5
+    }
+    
+    public enum ObjectSearchType
+    {
+        None = 0,
+        NoType,
+        TypeData1,
+        TypeData2,
+        TypeData3,
+        TypeData4,
+        TypeData5,
+        AllTypeData = TypeData1 | TypeData2 | TypeData3 | TypeData4 | TypeData5
     }
 
     public enum ContainerType

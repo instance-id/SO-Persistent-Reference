@@ -3,8 +3,11 @@
 // -- instance.id 2020 | http://github.com/instance-id | http://instance.id ---
 // ----------------------------------------------------------------------------
 
+using System;
+
 namespace instance.id.SOReference
 {
+    [Serializable]
     public class TypeData2 : TypeDataBase
     {
     }

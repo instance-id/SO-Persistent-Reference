@@ -3,11 +3,11 @@
 // -- instance.id 2020 | http://github.com/instance-id | http://instance.id ---
 // ----------------------------------------------------------------------------
 
-using UnityEngine;
+using instance.id.OdinSerializer;
 
 namespace instance.id.SOReference
 {
-    public class TypeDataBase : MonoBehaviour
+    public class TypeDataBase : SerializedMonoBehaviour
     {
     }
 }

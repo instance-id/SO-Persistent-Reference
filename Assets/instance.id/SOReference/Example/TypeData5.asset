@@ -12,5 +12,59 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d4fbbcbf27fa3c4f9fca4068e5bd726, type: 3}
   m_Name: TypeData5
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   objectType: 5
-  exposedReferenceList: []
+  exposedReferenceList:
+  - reference:
+      exposedName: DataType1 (4)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1 (2)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1 (1)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1 (3)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: DataType1 (5)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type3 (2)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type3 (3)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type3 (4)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type3 (5)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type3 (1)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type5 (5)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type5 (3)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type5 (1)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type5 (2)
+      defaultValue: {fileID: 0}
+  - reference:
+      exposedName: Data_Type5 (4)
+      defaultValue: {fileID: 0}
