@@ -1,5 +1,5 @@
 # Scene Object / ScriptableObject persistent references
-This repo provides an example of taking scene objects in the hierarchy and creating a persistent reference within ScriptableObjects through code, or by dragging them into the interface. The references will be maintained through Domain Reloads, Entering PlayMode, and closing Unity completely.
+This project provides an example of taking scene objects in the hierarchy and creating a persistent reference within ScriptableObjects through code, or by dragging them into the interface. The references will be maintained through Domain Reloads, Entering PlayMode, and closing Unity completely.
 
 ---
 ![](https://i.imgur.com/W0nlLqr.png)
