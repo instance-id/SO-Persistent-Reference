@@ -12,35 +12,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d4fbbcbf27fa3c4f9fca4068e5bd726, type: 3}
   m_Name: TypeData2
   m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
   objectType: 2
   exposedReferenceList:
   - reference:
-      exposedName: DataType1 (4)
+      exposedName: DataType2 (2)
       defaultValue: {fileID: 0}
   - reference:
-      exposedName: DataType1 (3)
-      defaultValue: {fileID: 0}
-  - reference:
-      exposedName: DataType1 (2)
-      defaultValue: {fileID: 0}
-  - reference:
-      exposedName: DataType1 (1)
-      defaultValue: {fileID: 0}
-  - reference:
-      exposedName: DataType1
+      exposedName: DataType2 (5)
       defaultValue: {fileID: 0}
   - reference:
       exposedName: DataType2 (4)
       defaultValue: {fileID: 0}
   - reference:
-      exposedName: DataType2 (3)
-      defaultValue: {fileID: 0}
-  - reference:
-      exposedName: DataType2 (2)
-      defaultValue: {fileID: 0}
-  - reference:
       exposedName: DataType2 (1)
       defaultValue: {fileID: 0}
   - reference:
-      exposedName: DataType2
+      exposedName: DataType2 (3)
       defaultValue: {fileID: 0}

@@ -45,7 +45,7 @@ namespace instance.id.SOReference
         [ReadOnly] public int listPropertyNameTotal;
         [Foldout("Referenced Object Names")] [ReorderableList]
         public List<PropertyName> listPropertyName = new List<PropertyName>();
-
+        
         // ------------------------------------------------------------------- Interface Implements
         // -- Interface Implements ----------------------------------------------------------------
 
